@@ -5,17 +5,20 @@
     <name>山田太郎</name>
     <age>30</age>
     <city>東京都</city>
+    <food>みかん</food>
   </person>
   <person>
     <id>2</id>
     <name>佐藤花子</name>
     <age>25</age>
     <city>青森県</city>
+    <food>バナナ</food>
   </person>
   <person>
     <id>3</id>
     <name>小林さくら</name>
     <age>40</age>
     <city>青森県</city>
+    <food>ぶどう</food>
   </person>
 </root>
