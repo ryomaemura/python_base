@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <person>
+    <id>1</id>
+    <name>山田太郎</name>
+    <age>30</age>
+    <city>東京都</city>
+  </person>
+  <person>
+    <id>2</id>
+    <name>佐藤花子</name>
+    <age>25</age>
+    <city>青森県</city>
+  </person>
+  <person>
+    <id>3</id>
+    <name>小林さくら</name>
+    <age>40</age>
+    <city>青森県</city>
+  </person>
+</root>
